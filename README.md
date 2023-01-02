@@ -1,2 +1,2 @@
 # dns-load-balancer
-Async python Load Balancer with NodeJS DNS server
+Async Python Load Balancer with NodeJS DNS server
