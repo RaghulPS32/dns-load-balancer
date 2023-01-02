@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "parse-domain": "^7.0.1"
+  },
+  "type":"module"
+}
